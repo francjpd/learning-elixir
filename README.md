@@ -5,10 +5,10 @@ This project will give you a learning path with feedback from a Frontend develop
 Also, the readme will contain my brief resume from each project. 
 
 
-
 <!-- vscode-markdown-toc -->
-* [kv](#kv)
+* [Our First project](#OurFirstproject)
 * [Learn functional programming with elixir new foundations for a new world](#Learnfunctionalprogrammingwithelixirnewfoundationsforanewworld)
+* [Functional Web Development with Elixir, OTP, and Phoenix](#FunctionalWebDevelopmentwithElixirOTPandPhoenix)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -16,7 +16,8 @@ Also, the readme will contain my brief resume from each project.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-### <a name='kv'></a>kv
+### <a name='OurFirstproject'></a>Our First project
+> kv
 
 The very first project created by following the [official guide](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html#our-first-project) to learn and understand mix, the build tool that provides tasks such as create, compile, test & manage dependencies.
 
@@ -28,5 +29,12 @@ It's like if you combined NPM and your favorite web framework (Vue, React, Angul
 > lfpwenffanw
 
 The reason i took this book was to refresh & reinforce my knowledge about Functional programming.
+
+After reading a few pages (up to 40ish out of 190), i got bored, i guess i need a more advanced book. My next book would be Functional Web Development with Elixir, OTP, and Phoenix
+
+
+### <a name='FunctionalWebDevelopmentwithElixirOTPandPhoenix'></a>Functional Web Development with Elixir, OTP, and Phoenix
+
+Since i've been into the frontend world for last 7 years or so, it makes sense to me to learn about Phoenix.
 
 WIP
