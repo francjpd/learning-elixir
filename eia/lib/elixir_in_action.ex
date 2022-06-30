@@ -5,12 +5,12 @@ defmodule ElixirInAction do
 
   @doc """
   Hello world.
-
+  
   ## Examples
-
+  
       iex> ElixirInAction.hello()
       :world
-
+  
   """
   def hello do
     :world

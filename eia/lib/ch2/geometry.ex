@@ -1,4 +1,4 @@
-defmodule Geometry do
+defmodule Ch2Geometry do
   defmodule Rectangle do
     def area(b, a) do
       b * a

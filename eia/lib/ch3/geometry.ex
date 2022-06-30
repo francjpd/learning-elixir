@@ -1,4 +1,4 @@
-defmodule Geometry do
+defmodule Ch3Geometry do
   def area({:rectangle, a, b}), do: a * b
 
   def area({:square, a}) do
