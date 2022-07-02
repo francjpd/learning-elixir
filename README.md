@@ -6,9 +6,10 @@ Also, the readme will contain my brief resume from each project.
 
 
 <!-- vscode-markdown-toc -->
-* [Our First project](#OurFirstproject)
-* [Learn functional programming with elixir new foundations for a new world](#Learnfunctionalprogrammingwithelixirnewfoundationsforanewworld)
-* [Functional Web Development with Elixir, OTP, and Phoenix](#FunctionalWebDevelopmentwithElixirOTPandPhoenix)
+	* [Our First project](#OurFirstproject)
+	* [Learn functional programming with elixir new foundations for a new world](#Learnfunctionalprogrammingwithelixirnewfoundationsforanewworld)
+	* [Elixir in Action](#ElixirinAction)
+	* [Functional Web Development with Elixir, OTP, and Phoenix](#FunctionalWebDevelopmentwithElixirOTPandPhoenix)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -30,8 +31,12 @@ It's like if you combined NPM and your favorite web framework (Vue, React, Angul
 
 The reason i took this book was to refresh & reinforce my knowledge about Functional programming.
 
-After reading a few pages (up to 40ish out of 190), i got bored, i guess i need a more advanced book. My next book would be Functional Web Development with Elixir, OTP, and Phoenix
+*Update*: After reading a few pages (up to 40ish out of 190), i got bored, i guess i need a more advanced book. My next book would be Functional Web Development with Elixir, OTP, and Phoenix
 
+### <a name='ElixirinAction'></a>Elixir in Action
+> eia
+
+This is the right book if you want to have a solid foundation before trying out other libraries / frameworks from Elixir. 
 
 ### <a name='FunctionalWebDevelopmentwithElixirOTPandPhoenix'></a>Functional Web Development with Elixir, OTP, and Phoenix
 
